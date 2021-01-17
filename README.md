@@ -1,5 +1,3 @@
-[![name](url_img)]
-
 # Express ESM API
 
 > simple Express server
@@ -9,7 +7,6 @@
 ## Prerequisite
 
 You need node and npm installed
-
 
 ## Install
 
